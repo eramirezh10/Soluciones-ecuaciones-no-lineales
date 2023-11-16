@@ -1,2 +1,2 @@
 # soluciones-ecuaciones-no-lineales
-Comparación de la convergencia de algunos métodos numéricos para hallar las soluciones de una ecuación no lineal propuesta.
+Tarea para mi clase de Métodos Numéricos donde se compara la convergencia de algunos métodos para hallar las soluciones de una ecuación no lineal propuesta.
